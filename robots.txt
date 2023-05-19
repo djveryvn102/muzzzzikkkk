@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muzik.to/sitemap.xml
